@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B05C9B401C684C42006A4258"
+               BlueprintIdentifier = "B05C9B7C1C688939006A4258"
                BuildableName = "cooktimer.app"
                BlueprintName = "cooktimer"
                ReferencedContainer = "container:cooktimer.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B05C9B561C684C42006A4258"
+               BlueprintIdentifier = "B05C9B901C688939006A4258"
                BuildableName = "cooktimerTests.xctest"
                BlueprintName = "cooktimerTests"
                ReferencedContainer = "container:cooktimer.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B05C9B611C684C42006A4258"
+               BlueprintIdentifier = "B05C9B9B1C688939006A4258"
                BuildableName = "cooktimerUITests.xctest"
                BlueprintName = "cooktimerUITests"
                ReferencedContainer = "container:cooktimer.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B05C9B401C684C42006A4258"
+            BlueprintIdentifier = "B05C9B7C1C688939006A4258"
             BuildableName = "cooktimer.app"
             BlueprintName = "cooktimer"
             ReferencedContainer = "container:cooktimer.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B05C9B401C684C42006A4258"
+            BlueprintIdentifier = "B05C9B7C1C688939006A4258"
             BuildableName = "cooktimer.app"
             BlueprintName = "cooktimer"
             ReferencedContainer = "container:cooktimer.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B05C9B401C684C42006A4258"
+            BlueprintIdentifier = "B05C9B7C1C688939006A4258"
             BuildableName = "cooktimer.app"
             BlueprintName = "cooktimer"
             ReferencedContainer = "container:cooktimer.xcodeproj">

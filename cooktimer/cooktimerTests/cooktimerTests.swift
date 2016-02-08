@@ -2,7 +2,7 @@
 //  cooktimerTests.swift
 //  cooktimerTests
 //
-//  Created by Juneja, Vanuj on 2/7/16.
+//  Created by Juneja, Vanuj on 2/8/16.
 //  Copyright © 2016 Juneja, Vanuj. All rights reserved.
 //
 
