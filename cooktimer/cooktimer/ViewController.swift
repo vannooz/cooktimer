@@ -29,11 +29,11 @@ class ViewController: UIViewController {
         if clockRunning == false {
             timer = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: Selector("increment"), userInfo: nil, repeats: true)
             clockRunning = true
-            startStopButton.setTitle("Stop", forState: UIControlState.Normal)
+            startStopButton.setTitle("Stop Timer", forState: UIControlState.Normal)
         } else {
             timer.invalidate();
             clockRunning = false
-            startStopButton.setTitle("Start", forState: UIControlState.Normal)
+            startStopButton.setTitle("Start Timer", forState: UIControlState.Normal)
         }
     }
     
@@ -44,7 +44,7 @@ class ViewController: UIViewController {
         whistleCount = 0
         time.text = "0"
         whistles.text = "0"
-        startStopButton.setTitle("Start", forState: UIControlState.Normal)
+        startStopButton.setTitle("Start Timer", forState: UIControlState.Normal)
         
     }
     
